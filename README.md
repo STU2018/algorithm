@@ -3,21 +3,29 @@ Implement some useful algorithms and do some exercises.
 
 实现一些常用的算法，并做一些练习题。
 
-待实现的标签
+**已经实现的算法**
 
 `选择排序`
 `插入排序`
 `希尔排序`
+`冒泡排序`
 `归并排序`
 `快速排序`
+`树状数组`
 `二叉查找树`
+`二分法`
+`三分法`
+`素数线性筛`
+`二叉树遍历`
+
+**待实现的算法**
+
 `字符串哈希`
 `KMP`
 `EX-KMP`
 `Manacher`
 `TRIE`
 `RMQ`
-`树状数组`
 `线段树`
 `可持久化线段树`
 `可持久化权值线段树`
@@ -50,7 +58,6 @@ Implement some useful algorithms and do some exercises.
 `二项式反演`
 `高斯消元`
 `矩阵快速幂`
-`素数筛`
 `欧拉函数`
 `快速幂`
 `欧拉定理`
@@ -63,8 +70,6 @@ Implement some useful algorithms and do some exercises.
 `拉格朗日插值`
 `FFT`
 `NTT`
-`二分法`
-`三分法`
 `高精度整数`
 `计算几何`
 
