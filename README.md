@@ -17,6 +17,7 @@ Implement some useful algorithms and do some exercises.
 `三分法`
 `素数线性筛`
 `二叉树遍历`
+`ST表`
 
 **待实现的算法**
 
@@ -33,7 +34,6 @@ Implement some useful algorithms and do some exercises.
 `倍增LCA`
 `并查集`
 `莫队`
-`ST表`
 `堆`
 `哈夫曼树`
 `区间DP`

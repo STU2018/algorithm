@@ -55,3 +55,8 @@
 `树状数组`
 
 实现支持两个基本功能的树状数组：单点修改、区间查询。
+
+**_ST_table.cpp_**
+`ST表`
+
+ST表样题，[链接](https://www.luogu.com.cn/problem/P3865)
